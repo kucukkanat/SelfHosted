@@ -152,7 +152,6 @@
 |2|Greg Slepak <contact@taoeffect.com>|
 |2|Greg V <greg@unrelenting.technology>|
 |2|Henry Ruhs <info@redaxmedia.com>|
-|2|Hilmi Tolga Sahin <htolgasahin@gmail.com>|
 |2|Jake Breindel <j.breindel2@outlook.com>|
 |2|James Cole <thegrumpydictator@gmail.com>|
 |2|Jan <jaltek@users.noreply.github.com>|
